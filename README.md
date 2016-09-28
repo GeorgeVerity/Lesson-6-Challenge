@@ -1,1 +1,1 @@
-# Lesson-6-Challenge
+Lesson 6 challenge
